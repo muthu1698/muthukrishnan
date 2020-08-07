@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muthu Krishnan</title>
+    <link>https://muthukrishnan.tech/</link>
+    <description>Recent content on Muthu Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://muthukrishnan.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Classification Model in PyTorch and TensorFlow</title>
+      <link>https://muthukrishnan.tech/post/project-4/</link>
+      <pubDate>Thu, 23 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://muthukrishnan.tech/post/project-4/</guid>
+      <description>Basic of Convolutional Neural Network (CNN) with python and image classification The training and validation accuracies after 10 epochs are 97.31% and 97.48% respectively.    Link to Medium</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Heart Disease UCI</title>
+      <link>https://muthukrishnan.tech/post/project-1/</link>
+      <pubDate>Mon, 20 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://muthukrishnan.tech/post/project-1/</guid>
+      <description>This dataset gives a number of variables along with a target condition of having or not having heart disease. In this dataset process like data cleaning, EDA, data visualization are done to get clear insight of the data. Below, the data is first used in a simple SVM, random forest model, ANN ML model are used to get clear accuracy.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>OnePlus Nord product review from amazon</title>
+      <link>https://muthukrishnan.tech/post/project-5/</link>
+      <pubDate>Tue, 07 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://muthukrishnan.tech/post/project-5/</guid>
+      <description>A simple amazon scraper to extract product detail for OnePlus Nord from Amazon.com using Python Requests and BeautifulSoup. BeautifulSoup, the most common web scraping module for Python. To analyse the product review where the customer are happy with this product are not.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Amazon Review Scraper using Selectorlib</title>
+      <link>https://muthukrishnan.tech/post/project-3/</link>
+      <pubDate>Mon, 15 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://muthukrishnan.tech/post/project-3/</guid>
+      <description>A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib. Selectorlib is a library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Real or Not? NLP with Disaster Tweets</title>
+      <link>https://muthukrishnan.tech/post/project-2/</link>
+      <pubDate>Wed, 06 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://muthukrishnan.tech/post/project-2/</guid>
+      <description>For this example project I built a NLP model to identify the tweet is disasters or not.
+This is new to me and I like to deploy it by doing this dataset. In this some visualization, tokenization, CountVectorizer, TfidfVectorizer and Machine Learning model LogisticRegression where used.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://muthukrishnan.tech/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muthukrishnan.tech/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/muthu-krishnan16/   Medium: https://medium.com/@muthu1698   GitHub: https://github.com/muthu1698s   kaggle: https://www.kaggle.com/muthu1698   Jovian.ml: https://jovian.ml/muthu1698    </description>
+    </item>
+    
+  </channel>
+</rss>
